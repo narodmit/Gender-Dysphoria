@@ -1,2 +1,2 @@
 # Gender-Dysphoria
-Diagnostic codes for ADC paper
+Diagnostic codes for Archives of Disease in Childhood paper
